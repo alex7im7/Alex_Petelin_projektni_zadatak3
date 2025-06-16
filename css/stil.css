@@ -1,0 +1,92 @@
+body {
+  background-image: url('../slikee/pozadina.jpg'); 
+  background-size:cover;        
+  background-repeat: repeat; 
+background-position: top center; 
+height: 400px; 
+  width: 100%;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color:#1d3b1d;
+  padding: 53px;
+  text-align: center;
+}
+
+h1 {
+	font-family:'Petelin';
+	src:url('Petelin.ttf') format('truetype');
+  font-size: 3em;
+  color: #769c76;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #697a69;
+}
+
+h3 {
+  font-size: 1.5em;
+  color:#1d3b1d;
+ 
+  
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #769c76;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+p {
+	color:#1d3b1d;
+	background-color:#769c76;
+	 border:2px solid #1d3b1d;
+	  padding:30px 40px;
+	  border-radius: 8px;
+	  
+
+}
+
+ .tekst-kutija {
+  max-width: 750px;   
+  width: 90%;        
+  margin: 0 auto;     
+  text-align: justify; 
+  padding:60px;
+  font-size:22px;
+  
+  p{
+	  border:2px solid #1d3b1d;
+	  padding:30px 40px;
+	 background-color:#769c76;
+	 color:#1d3b1d;
+	 
+  }
+  
+ 
