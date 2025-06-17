@@ -3,6 +3,9 @@
 	font-family:Petelin;
 	src:url(Petelin.ttf);
 }
+#mojfont {
+	font-family:Petelin;
+}
 body {
   background-image: url('../slikee/pozadina.jpg'); 
   background-size:cover;        
